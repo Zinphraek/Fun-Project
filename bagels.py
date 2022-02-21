@@ -1,6 +1,6 @@
 from random import randint
 
-# This program is based in the game Bagels exposed in the book totle "The big book of small Python projects" by Al Sweigart.
+# This program is based in the game Bagels exposed in "The big book of small Python projects" by Al Sweigart.
 
 
 def get_guess(v_length):
